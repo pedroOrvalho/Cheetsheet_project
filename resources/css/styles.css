@@ -1,0 +1,61 @@
+table, th, tr {
+    border: 2px solid black;
+  }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+header {
+    position: relative;
+    height: 80px;
+    width: auto;
+    padding-top: 0px;
+}
+
+header img {
+    float: left;
+    height: 75px;
+    position: relative;
+}
+
+header h1 {
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+    color:chocolate;
+    font-size: 50px;
+}
+
+  .selector {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(199, 54, 54);
+  }
+
+.top_head {
+    background-color: cadetblue;
+    font-size: 25px;
+}
+.example {
+    text-align: center;
+}
+
+td {
+    background-color: rgb(157, 211, 213);
+}
+
+h2 {
+    text-align: center;
+}
+
+td span {
+    background-color: antiquewhite;
+    font-size: 18px;
+}
